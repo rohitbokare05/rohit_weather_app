@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527102060268",
+    "project_id": "cinequest1",
+    "storage_bucket": "cinequest1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527102060268:android:f11aaef383ce80191467c9",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAluacBocP_38R5tD0kPeN9EL3rTfnzjdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
